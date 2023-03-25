@@ -1,8 +1,4 @@
-[<img src='https://user-images.githubusercontent.com/83868103/192875774-0b66a80b-713a-44ae-b14d-beb019ac3dd4.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/192876471-2921ad54-dc4c-4592-95f3-4d24c4ee21e1.png' alt='telegram'  width='24.5%'>](https://t.me/romanv1812)
-[<img src='https://user-images.githubusercontent.com/83868103/192877399-83f11a01-6da4-4d55-94f8-7e49a834989a.png' alt='telegram'  width='24.5%'>](https://twitter.com/romanv1812)
-[<img src='https://user-images.githubusercontent.com/83868103/192877952-23be5ebf-6ad4-4080-94ae-1a2346b2f756.png' alt='telegram'  width='24.5%'>](romanv1812@gmail.com)
-#
+
 [<img src='https://user-images.githubusercontent.com/83868103/183111052-2bc3a8cf-f5b7-4915-8a09-212f09859e34.gif' alt='mainnets'  width='99.5%'>](https://github.com/romanv1812)
 [<img src='https://user-images.githubusercontent.com/83868103/182951895-1f093735-ce28-4ae6-9aba-cec3de667843.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182946009-439e0aa3-b401-457a-b2ed-355f9f5ccb3a.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/8fVEYyzsr6xWbgWv19CqiiAWr3ocskn3DU65MNSbQH2q)
