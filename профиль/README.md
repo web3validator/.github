@@ -3,9 +3,6 @@ TestnetPride is a a staking provider for PoS blockchains. We do ensure reliabili
 
 Our team includes experienced Software developers, DevOps engineers, community managers, technical moderators as well as talented designers and ambassadors.
 
-We support crypto projects from their initial testnet/devnet phases and after mainnet. 
-Our team has been involved in different aspects of numerous major projects such as Aptos, Sui, Aleo, Ironfish and a lot of Cosmos & Polkadot based projects. 
-
 We also develop a comprehensive set of powerful and efficient tools that are important when it comes to scalability, maintaining high uptime and providing a good user experience: 
 - Infrastructure monitoring
 - Alerting
