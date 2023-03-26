@@ -31,6 +31,8 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/227786353-8684cf56-3a46-424a-bf9d-288054477769.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/227785550-3b15805d-fd0d-4944-9c21-7228d20a233a.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/227787498-9a0ec282-9cab-474a-bc22-a493ea4efd0d.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/227787852-112a8f4e-4640-4530-be2c-94df01023330.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/227788549-bfda8929-235f-4657-a195-a5812326fa5d.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 
 ____
 
