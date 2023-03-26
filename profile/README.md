@@ -1,4 +1,10 @@
 
+[<img src='https://user-images.githubusercontent.com/83868103/227769602-9a61b516-5586-4294-8ef5-aafe52ee5831.svg' alt='twitte'  width='5%'>](https://twitter.com/TestnetPride) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=200&height=45&lines=+++++++++Twitter+)](https://twitter.com/TestnetPride) [<img src='https://user-images.githubusercontent.com/83868103/227769829-5761979b-3e99-442e-b1ea-54b869f77595.svg' alt='twitte'  width='5%'>](https://t.me/TestnetPride) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=200&height=45&lines=++++++++Telegram)](https://t.me/TestnetPride)
+[<img src='https://user-images.githubusercontent.com/83868103/227770203-e5856433-f156-4e66-b52d-0fe134c45b77.png' alt='twitte'  width='6%'>](https://twitter.com/TestnetPride)
+
+
+
+
 [<img src='https://user-images.githubusercontent.com/83868103/183111052-2bc3a8cf-f5b7-4915-8a09-212f09859e34.gif' alt='mainnets'  width='99.5%'>](https://github.com/romanv1812)
 [<img src='https://user-images.githubusercontent.com/83868103/182951895-1f093735-ce28-4ae6-9aba-cec3de667843.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182946009-439e0aa3-b401-457a-b2ed-355f9f5ccb3a.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/8fVEYyzsr6xWbgWv19CqiiAWr3ocskn3DU65MNSbQH2q)
