@@ -8,7 +8,12 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/227777515-455760db-177f-4a6d-81a7-d44a8fbb92de.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 ___
 
-![Слой 1](https://user-images.githubusercontent.com/83868103/227779551-a79787e3-3d9e-4c8a-bf04-25303cc2353e.png)
+[<img src='https://user-images.githubusercontent.com/83868103/227780113-5652d582-d34d-43af-8fc4-fba1fae30621.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/227780113-5652d582-d34d-43af-8fc4-fba1fae30621.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/227780113-5652d582-d34d-43af-8fc4-fba1fae30621.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/227780113-5652d582-d34d-43af-8fc4-fba1fae30621.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+
+
 
 
 
