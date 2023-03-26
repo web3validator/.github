@@ -4,7 +4,7 @@ ___
 
 [<img src='https://user-images.githubusercontent.com/83868103/227781224-ea7657b2-63ec-419b-b4f3-ba64de0bf55e.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/227781435-18900ece-6f1f-46b7-ba7d-37b523e69030.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
-[<img src='https://user-images.githubusercontent.com/83868103/227780557-2becbb1f-3504-4fa5-99eb-12e98cc809c8.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
+[<img src='https://user-images.githubusercontent.com/83868103/227781889-229fa1c0-2bb2-4b31-adfe-89f75a4400dd.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/227780557-2becbb1f-3504-4fa5-99eb-12e98cc809c8.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 ____
 
