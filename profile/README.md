@@ -59,7 +59,9 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228058129-db51d83b-816b-42a4-8300-8db430f17fcf.png' alt='QUICKSILVER'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228061941-a7440c9e-73b4-4ba5-b58e-2f770588dc9f.png' alt='FLEEK'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228066267-31350585-ab32-4f4b-95e7-f8a6234b002d.png' alt='GORACLE'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228069368-12865795-873b-446e-9b06-b9aaee144b4f.png' alt='SHARDEUM'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 ___
+
 
 
 
@@ -84,6 +86,7 @@ ____
 [<img src='https://user-images.githubusercontent.com/83868103/228066617-04f3d7d1-4694-4acf-89c2-57efc9394551.png' alt='PONTEM'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/228067240-4daa54b0-4c5b-46e8-afbd-6fb9a17a65bf.png' alt='MESON'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/228067788-7cf1c767-b4e4-49ba-ad49-c3b8a13121df.png' alt='HORIZON'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
+[<img src='https://user-images.githubusercontent.com/83868103/228070551-0d41409d-2387-4761-8c29-111eb1d76f71.png' alt='MARS'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 
 
 
