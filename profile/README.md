@@ -73,7 +73,7 @@ ____
 
 [<img src='https://user-images.githubusercontent.com/83868103/228055586-37eb4d3c-b77a-4f69-9cd6-e2cd9837554f.png' alt='EVMOS'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228007722-3178ea5d-0423-46c8-a769-2a2c4c4118a8.png' alt='IRON_FISH2'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/228015330-8bbbc846-3885-444b-8611-a7b2d235b129.png' alt='EXORDE'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
+[<img src='https://user-images.githubusercontent.com/83868103/228055973-559fcc00-d200-48f9-847b-d72f40a33093.png' alt='EXORDE'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/228012628-838be3a3-8727-4d56-93bc-93cc4d060ff5.png' alt='APTOS2'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/227782784-d3495d50-f50d-4115-b907-d6688520d9f4.png' alt='IRON_FISH'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/227781435-18900ece-6f1f-46b7-ba7d-37b523e69030.png' alt='APTOS'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
