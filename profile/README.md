@@ -1,4 +1,5 @@
-___
+[<img src='https://user-images.githubusercontent.com/83868103/227951803-75dcf75c-d22d-4987-9c49-65d1a9ee267c.png' alt='ABOUT_US'  width='100%'>](https://github.com/testnet-pride) 
+
 #### TestnetPride is a a staking provider for PoS blockchains. We do ensure reliability, security and decentralisation that are successfully backed by an experienced team, technically advanced community from all over the world as well as dependable hosting providers. 
 
 #### Our team includes experienced Software developers, DevOps engineers, community managers, technical moderators as well as talented designers and ambassadors.
@@ -16,7 +17,7 @@ ___
 #### Our goal is to be a reliable and trusted partner for projects, and to help them achieve success through innovative different solutions that deliver real value and impact. This involves helping to design and implement the software architecture, testing and troubleshooting the network, and providing technical guidance and support.
 
 #### We also actively participate on the community side of every project. It takes various forms such as articles, videos, tutorials, webinars, and other forms of digital media as well as chat moderation. The content is aimed at providing useful information and knowledge to the community.
-
+#
 [<img src='https://user-images.githubusercontent.com/83868103/227937841-6e05b933-9534-49f1-808a-efe087a4f7cd.png' alt='Twitter'  width='16.5%'>](https://twitter.com/intent/user?screen_name=TestnetPride&intent=follow)[<img src='https://user-images.githubusercontent.com/83868103/227935592-ea64badd-ceb4-4945-8dfc-f25c787fb29d.png' alt='TELEGRAM'  width='16.5%'>](https://t.me/TestnetPride)[<img src='https://user-images.githubusercontent.com/83868103/227936236-325bebfd-b287-4206-a964-dcbe67fe7ca8.png' alt='WEBSITE'  width='16.5%'>](http://testnet-pride.com/)[<img src='https://user-images.githubusercontent.com/83868103/227936479-a48e814b-3ec1-4dcb-bd44-96b02d8f55da.png' alt='MAIL'  width='16.5%'>](mailto:official@testnet-pride.com)[<img src='https://user-images.githubusercontent.com/83868103/227932993-b1e3a588-2b91-4915-854a-fa47da3b2cdb.png' alt='LINKEDIN'  width='16.5%'>](https://www.linkedin.com/company/testnet-pride/) [<img src='https://user-images.githubusercontent.com/83868103/227948915-65731f97-c406-4d2c-996c-e5440ff67584.png' alt='GITHUB'  width='16.5%'>](https://github.com/testnet-pride)
 ___
 
