@@ -36,6 +36,8 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/227784394-c53ebce5-afa3-42bb-84ab-404ae8ef819f.png' alt='SEI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/227783572-7ff80a57-1038-4f1e-913a-325e193d2c5e.png' alt='AXELAR'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228016696-5a55a854-7d5c-43de-8979-022864d8a744.png' alt='OKP4'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228018297-6271a88d-bd8c-4f3d-99df-63e1e9f7f1e5.png' alt='DEFUND'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+
 
 
 ___
