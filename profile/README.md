@@ -81,6 +81,8 @@ ____
 [<img src='https://user-images.githubusercontent.com/83868103/228064236-1810d768-ab60-4dea-bda3-9718f906ab1d.png' alt='BITCOUNTRY'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228064691-0668a5ae-c664-4ddf-acf6-201c57e3eb81.png' alt='KUJIRA'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/228065218-07071f0c-383e-467f-adf9-ceb595c7e010.png' alt='STAFI'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
+[<img src='https://user-images.githubusercontent.com/83868103/228066617-04f3d7d1-4694-4acf-89c2-57efc9394551.png' alt='PONTEM'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
+
 
 
 ____
