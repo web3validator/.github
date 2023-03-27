@@ -35,7 +35,7 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228027572-45693836-7560-4bb5-af7f-4afa25c461b9.png' alt='CHAINFLIP'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228028427-8ae72fad-6c8a-4b42-aa93-9961b5e74808.png' alt='CELESTIA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/227786353-8684cf56-3a46-424a-bf9d-288054477769.png' alt='ALEPH_ZERO'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/228030192-c99b4b50-f635-40e6-b3e5-cb205312478d.png' alt='SEI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228047927-75832b50-9f46-40e3-9752-443d9da42859.png' alt='SEI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228030910-f54c8022-b0c0-4531-a4a3-ce658a12244f.png' alt='AXELAR'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228031305-cdbce195-5c00-41dd-a53a-68c6c1f767d3.png' alt='OKP4'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228032886-cbf21f02-60d6-48af-b001-fc592a540dc5.png' alt='DEFUND'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
@@ -55,7 +55,8 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228046299-478d03e1-fd33-484c-87eb-ace86f2328f1.png' alt='OBOL'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 
 
-___
+
+
 [<img src='https://user-images.githubusercontent.com/83868103/227958908-da842c62-1134-4783-b42f-f55668bf1a45.png' alt='UPCOMING'  width='100%'>](https://github.com/testnet-pride) 
 
 [<img src='https://user-images.githubusercontent.com/83868103/227781224-ea7657b2-63ec-419b-b4f3-ba64de0bf55e.png' alt='SUI'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
