@@ -35,6 +35,9 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/227786353-8684cf56-3a46-424a-bf9d-288054477769.png' alt='ALEPH_ZERO'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/227784394-c53ebce5-afa3-42bb-84ab-404ae8ef819f.png' alt='SEI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/227783572-7ff80a57-1038-4f1e-913a-325e193d2c5e.png' alt='AXELAR'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228016696-5a55a854-7d5c-43de-8979-022864d8a744.png' alt='OKP4'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+
+
 ___
 [<img src='https://user-images.githubusercontent.com/83868103/227958908-da842c62-1134-4783-b42f-f55668bf1a45.png' alt='UPCOMING'  width='100%'>](https://github.com/testnet-pride) 
 
