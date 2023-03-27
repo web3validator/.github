@@ -32,6 +32,7 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228058129-db51d83b-816b-42a4-8300-8db430f17fcf.png' alt='QUICKSILVER'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228075606-a702a3ee-dcd8-46c1-9a9f-24eccf78802b.png' alt='MISES'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228076152-c458e3df-1106-485a-86fc-cca2938376d2.png' alt='GENESISL1'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228076928-595e5902-5c2a-4e63-813a-25c4a01a1da4.png' alt='FORTA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 
 
 ___
