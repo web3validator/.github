@@ -59,12 +59,6 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228052390-d4079760-a01f-4dbe-9518-b7df757e2cdc.png' alt='UMEE'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 
 
-![APTOS](https://user-images.githubusercontent.com/83868103/228056433-cb35a533-93e5-424f-85e5-b344f1cdc1b6.png)
-
-
-
-
-
 [<img src='https://user-images.githubusercontent.com/83868103/227958908-da842c62-1134-4783-b42f-f55668bf1a45.png' alt='UPCOMING'  width='100%'>](https://github.com/testnet-pride) 
 
 [<img src='https://user-images.githubusercontent.com/83868103/228041114-f96eadbf-4dcb-4730-9ad2-26b5ed4f899f.png' alt='SUI'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
