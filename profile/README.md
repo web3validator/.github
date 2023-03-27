@@ -48,7 +48,7 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228040235-8d51f2d3-c7bd-4532-bb33-bb65a26f3c4d.png' alt='KYVE_KORELLIA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228041114-f96eadbf-4dcb-4730-9ad2-26b5ed4f899f.png' alt='SUI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228043774-b13ee730-a027-4c35-814a-97271923141f.png' alt='SUI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-
+[<img src='https://user-images.githubusercontent.com/83868103/228044924-a84c8375-2281-4013-bf08-f08f8f9212b4.png' alt='SUI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 
 
 ___
