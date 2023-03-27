@@ -42,6 +42,11 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228034352-ea3e5cb5-e4d3-492b-9e91-850a28fa868b.png' alt='MASSA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228034695-8da1046e-6644-46ac-8f40-1914426288ae.png' alt='NIBIRU'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228025592-c43ba8ae-fc75-4c20-9d12-489cac4d49ad.png' alt='DYMENSION'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228036993-b7531506-57b4-4b59-8cb2-c1a3eae8e232.png' alt='NAMADA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228037406-d585cdec-8e0a-4c41-8fc5-2b66e68ebc28.png' alt='NAMADA2'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228039305-a81b7a23-edf9-40ee-bfae-bb6ccaab8f34.png' alt='KYVE_KAON'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228040235-8d51f2d3-c7bd-4532-bb33-bb65a26f3c4d.png' alt='KYVE_KORELLIA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228041114-f96eadbf-4dcb-4730-9ad2-26b5ed4f899f.png' alt='SUI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 
 
 
