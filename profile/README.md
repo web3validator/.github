@@ -76,7 +76,9 @@ ____
 [<img src='https://user-images.githubusercontent.com/83868103/228055973-559fcc00-d200-48f9-847b-d72f40a33093.png' alt='EXORDE'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/228056433-cb35a533-93e5-424f-85e5-b344f1cdc1b6.png' alt='APTOS'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/228062864-2a43e627-25f9-43bf-8560-43e405a3d48b.png' alt='NEAR'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
-[<img src='https://user-images.githubusercontent.com/83868103/228064236-1810d768-ab60-4dea-bda3-9718f906ab1d.png' alt='BITCOUNTRY'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
+[<img src='https://user-images.githubusercontent.com/83868103/228064236-1810d768-ab60-4dea-bda3-9718f906ab1d.png' alt='BITCOUNTRY'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228064691-0668a5ae-c664-4ddf-acf6-201c57e3eb81.png' alt='KUJIRA'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
+
 
 
 ____
