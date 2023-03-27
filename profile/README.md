@@ -25,7 +25,7 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/227787852-112a8f4e-4640-4530-be2c-94df01023330.png' alt='JOYSTREAM'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/227788549-bfda8929-235f-4657-a195-a5812326fa5d.png' alt='NYM'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228052390-d4079760-a01f-4dbe-9518-b7df757e2cdc.png' alt='UMEE'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/227789488-99ad270d-980d-40dd-8de1-9b4729e26970.png' alt='TERITORI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228051435-63c03119-8c5c-41fc-8e47-44db1598aa22.png' alt='TERITORI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228046966-8b07662f-d267-47b3-a970-0bb9671500da.png' alt='ARCHWAY'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 
 
@@ -48,14 +48,14 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228039305-a81b7a23-edf9-40ee-bfae-bb6ccaab8f34.png' alt='KYVE_KAON'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228040235-8d51f2d3-c7bd-4532-bb33-bb65a26f3c4d.png' alt='KYVE_KORELLIA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228041114-f96eadbf-4dcb-4730-9ad2-26b5ed4f899f.png' alt='SUI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/228043774-b13ee730-a027-4c35-814a-97271923141f.png' alt='SUI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/228044924-a84c8375-2281-4013-bf08-f08f8f9212b4.png' alt='SUI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228043774-b13ee730-a027-4c35-814a-97271923141f.png' alt='SOURCE'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228044924-a84c8375-2281-4013-bf08-f08f8f9212b4.png' alt='LAVA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228045699-355f1d31-7308-4c26-b2b1-c9c59d75aaad.png' alt='OBOL'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/228046299-478d03e1-fd33-484c-87eb-ace86f2328f1.png' alt='OBOL'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/228048846-df9d044c-3d81-4c20-a778-fa825d0da5d1.png' alt='OBOL'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/228050645-5754da7e-2f11-43b4-85b9-5f64e75470c3.png' alt='OBOL'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/228051435-63c03119-8c5c-41fc-8e47-44db1598aa22.png' alt='OBOL'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/228052390-d4079760-a01f-4dbe-9518-b7df757e2cdc.png' alt='OBOL'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228046299-478d03e1-fd33-484c-87eb-ace86f2328f1.png' alt='TAIKO'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228048846-df9d044c-3d81-4c20-a778-fa825d0da5d1.png' alt='MINIMA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228050645-5754da7e-2f11-43b4-85b9-5f64e75470c3.png' alt='MASA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228051435-63c03119-8c5c-41fc-8e47-44db1598aa22.png' alt='TERITORI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228052390-d4079760-a01f-4dbe-9518-b7df757e2cdc.png' alt='UMEE'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 
 
 
