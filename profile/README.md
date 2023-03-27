@@ -19,6 +19,9 @@
 [<img src='https://user-images.githubusercontent.com/83868103/227937841-6e05b933-9534-49f1-808a-efe087a4f7cd.png' alt='Twitter'  width='16.5%'>](https://twitter.com/intent/user?screen_name=TestnetPride&intent=follow)[<img src='https://user-images.githubusercontent.com/83868103/227935592-ea64badd-ceb4-4945-8dfc-f25c787fb29d.png' alt='TELEGRAM'  width='16.5%'>](https://t.me/TestnetPride)[<img src='https://user-images.githubusercontent.com/83868103/227936236-325bebfd-b287-4206-a964-dcbe67fe7ca8.png' alt='WEBSITE'  width='16.5%'>](http://testnet-pride.com/)[<img src='https://user-images.githubusercontent.com/83868103/227936479-a48e814b-3ec1-4dcb-bd44-96b02d8f55da.png' alt='MAIL'  width='16.5%'>](mailto:official@testnet-pride.com)[<img src='https://user-images.githubusercontent.com/83868103/227932993-b1e3a588-2b91-4915-854a-fa47da3b2cdb.png' alt='LINKEDIN'  width='16.5%'>](https://www.linkedin.com/company/testnet-pride/) [<img src='https://user-images.githubusercontent.com/83868103/227948915-65731f97-c406-4d2c-996c-e5440ff67584.png' alt='GITHUB'  width='16.5%'>](https://github.com/testnet-pride)
 ___
 
+
+
+
 [<img src='https://user-images.githubusercontent.com/83868103/227948794-a49e389c-d589-4b7f-84b8-18c0b78b7425.png' alt='MAINNETS'  width='100%'>](https://github.com/testnet-pride) 
  
 [<img src='https://user-images.githubusercontent.com/83868103/228053205-db8ce8af-df3c-4f45-a429-b4c14c52b21c.png' alt='KYVE'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
@@ -28,6 +31,7 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228051435-63c03119-8c5c-41fc-8e47-44db1598aa22.png' alt='TERITORI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228058129-db51d83b-816b-42a4-8300-8db430f17fcf.png' alt='QUICKSILVER'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228075606-a702a3ee-dcd8-46c1-9a9f-24eccf78802b.png' alt='MISES'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228076152-c458e3df-1106-485a-86fc-cca2938376d2.png' alt='GENESISL1'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 
 
 ___
