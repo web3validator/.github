@@ -30,19 +30,18 @@ ___
 ___
 [<img src='https://user-images.githubusercontent.com/83868103/227949315-11b1d578-03a6-4a4c-b15a-cd9295fcbc8b.png' alt='TESTNETS'  width='100%'>](https://github.com/testnet-pride) 
 
-[<img src='https://user-images.githubusercontent.com/83868103/227802168-d2b8383a-ef29-4f5b-8ed3-bc4c22516e7c.png' alt='CHAINFLIP'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/227787498-9a0ec282-9cab-474a-bc22-a493ea4efd0d.png' alt='CELESTIA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228027572-45693836-7560-4bb5-af7f-4afa25c461b9.png' alt='CHAINFLIP'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228028427-8ae72fad-6c8a-4b42-aa93-9961b5e74808.png' alt='CELESTIA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/227786353-8684cf56-3a46-424a-bf9d-288054477769.png' alt='ALEPH_ZERO'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/227784394-c53ebce5-afa3-42bb-84ab-404ae8ef819f.png' alt='SEI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/227783572-7ff80a57-1038-4f1e-913a-325e193d2c5e.png' alt='AXELAR'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/228016696-5a55a854-7d5c-43de-8979-022864d8a744.png' alt='OKP4'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/228018297-6271a88d-bd8c-4f3d-99df-63e1e9f7f1e5.png' alt='DEFUND'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/228019127-ba35bca6-e7dc-4a5e-9bbb-059a69f1142c.png' alt='STARKNET'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/228021534-67e9bb76-ccde-4776-b185-0e724d42bc04.png' alt='HAQQ'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228030192-c99b4b50-f635-40e6-b3e5-cb205312478d.png' alt='SEI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228030910-f54c8022-b0c0-4531-a4a3-ce658a12244f.png' alt='AXELAR'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228031305-cdbce195-5c00-41dd-a53a-68c6c1f767d3.png' alt='OKP4'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228032886-cbf21f02-60d6-48af-b001-fc592a540dc5.png' alt='DEFUND'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228033434-f5e60ef1-01fe-4bd6-abb5-5b72766b5bd8.png' alt='STARKNET'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228033942-7afa1063-3278-4f82-9343-6135c4a05c46.png' alt='HAQQ'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228022124-2d57ef5b-2070-482d-bb58-533648adc4d6.png' alt='MASSA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228023471-730cbe15-eefe-48cd-aa06-31f2e7645411.png' alt='NIBIRU'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228025592-c43ba8ae-fc75-4c20-9d12-489cac4d49ad.png' alt='DYMENSION'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-
 
 
 
