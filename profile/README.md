@@ -37,6 +37,9 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/227783572-7ff80a57-1038-4f1e-913a-325e193d2c5e.png' alt='AXELAR'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228016696-5a55a854-7d5c-43de-8979-022864d8a744.png' alt='OKP4'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228018297-6271a88d-bd8c-4f3d-99df-63e1e9f7f1e5.png' alt='DEFUND'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228019127-ba35bca6-e7dc-4a5e-9bbb-059a69f1142c.png' alt='STARKNET'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228021534-67e9bb76-ccde-4776-b185-0e724d42bc04.png' alt='HAQQ'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228022124-2d57ef5b-2070-482d-bb58-533648adc4d6.png' alt='MASSA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 
 
 
