@@ -83,7 +83,7 @@ ____
 [<img src='https://user-images.githubusercontent.com/83868103/228065218-07071f0c-383e-467f-adf9-ceb595c7e010.png' alt='STAFI'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/228066617-04f3d7d1-4694-4acf-89c2-57efc9394551.png' alt='PONTEM'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/228067240-4daa54b0-4c5b-46e8-afbd-6fb9a17a65bf.png' alt='MESON'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
-
+[<img src='https://user-images.githubusercontent.com/83868103/228067788-7cf1c767-b4e4-49ba-ad49-c3b8a13121df.png' alt='HORIZON'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 
 
 
