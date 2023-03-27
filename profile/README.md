@@ -75,6 +75,7 @@ ____
 [<img src='https://user-images.githubusercontent.com/83868103/228057026-e0659e13-fde1-4977-8b0f-737ea998bff4.png' alt='IRON_FISH'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228055973-559fcc00-d200-48f9-847b-d72f40a33093.png' alt='EXORDE'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/228056433-cb35a533-93e5-424f-85e5-b344f1cdc1b6.png' alt='APTOS'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
+[<img src='https://user-images.githubusercontent.com/83868103/228062864-2a43e627-25f9-43bf-8560-43e405a3d48b.png' alt='NEAR'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
  
 ____
 
