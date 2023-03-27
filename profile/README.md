@@ -27,6 +27,7 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228052390-d4079760-a01f-4dbe-9518-b7df757e2cdc.png' alt='UMEE'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228051435-63c03119-8c5c-41fc-8e47-44db1598aa22.png' alt='TERITORI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228058129-db51d83b-816b-42a4-8300-8db430f17fcf.png' alt='QUICKSILVER'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228075606-a702a3ee-dcd8-46c1-9a9f-24eccf78802b.png' alt='MISES'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 
 
 ___
