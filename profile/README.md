@@ -21,12 +21,13 @@ ___
 
 [<img src='https://user-images.githubusercontent.com/83868103/227948794-a49e389c-d589-4b7f-84b8-18c0b78b7425.png' alt='MAINNETS'  width='100%'>](https://github.com/testnet-pride) 
  
-[<img src='https://user-images.githubusercontent.com/83868103/227785550-3b15805d-fd0d-4944-9c21-7228d20a233a.png' alt='KYVE'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/227787852-112a8f4e-4640-4530-be2c-94df01023330.png' alt='JOYSTREAM'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/227788549-bfda8929-235f-4657-a195-a5812326fa5d.png' alt='NYM'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228053205-db8ce8af-df3c-4f45-a429-b4c14c52b21c.png' alt='KYVE'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228054048-feffe1ef-7b87-4d6d-9962-4160e17cbd89.png' alt='JOYSTREAM'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228054630-e1983013-7a61-40fa-b876-feabb2d7944c.png' alt='NYM'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228052390-d4079760-a01f-4dbe-9518-b7df757e2cdc.png' alt='UMEE'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228051435-63c03119-8c5c-41fc-8e47-44db1598aa22.png' alt='TERITORI'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228046966-8b07662f-d267-47b3-a970-0bb9671500da.png' alt='ARCHWAY'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+
 
 
 ___
@@ -62,9 +63,9 @@ ___
 
 [<img src='https://user-images.githubusercontent.com/83868103/227958908-da842c62-1134-4783-b42f-f55668bf1a45.png' alt='UPCOMING'  width='100%'>](https://github.com/testnet-pride) 
 
-[<img src='https://user-images.githubusercontent.com/83868103/227781224-ea7657b2-63ec-419b-b4f3-ba64de0bf55e.png' alt='SUI'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
+[<img src='https://user-images.githubusercontent.com/83868103/228041114-f96eadbf-4dcb-4730-9ad2-26b5ed4f899f.png' alt='SUI'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/227781889-229fa1c0-2bb2-4b31-adfe-89f75a4400dd.png' alt='ALEO'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-[<img src='https://user-images.githubusercontent.com/83868103/227782319-3f4c3181-0837-42e3-bc49-93556bd546b4.png' alt='ARCHWAY'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+[<img src='https://user-images.githubusercontent.com/83868103/228046966-8b07662f-d267-47b3-a970-0bb9671500da.png' alt='ARCHWAY'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 ____
 [<img src='https://user-images.githubusercontent.com/83868103/227959960-1b73d851-1723-4cba-90e3-b9dc946463dd.png' alt='COMPLETED'  width='100%'>](https://github.com/testnet-pride) 
 
