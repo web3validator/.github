@@ -19,6 +19,9 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228076928-595e5902-5c2a-4e63-813a-25c4a01a1da4.png' alt='FORTA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 
 
+[<img src='https://user-images.githubusercontent.com/83868103/228269599-eb454717-b474-481f-a3a5-381115b230f4.gif' alt='O-U-IBC'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
+
+
 
 ___
 [<img src='https://user-images.githubusercontent.com/83868103/228215727-d947f93b-0152-4ead-8209-6f6641eadeb6.png' alt='TESTNETS'  width='100%'>](https://github.com/testnet-pride) 
@@ -78,12 +81,6 @@ ____
 [<img src='https://user-images.githubusercontent.com/83868103/228067240-4daa54b0-4c5b-46e8-afbd-6fb9a17a65bf.png' alt='MESON'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/228067788-7cf1c767-b4e4-49ba-ad49-c3b8a13121df.png' alt='HORIZON'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/228070551-0d41409d-2387-4761-8c29-111eb1d76f71.png' alt='MARS'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
-
-
-[<img src='https://user-images.githubusercontent.com/83868103/228258039-d1d2ff6f-861c-410c-b1d7-7fd3224cfbd3.gif' alt='MARS'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
-[<img src='https://user-images.githubusercontent.com/83868103/228257165-c2339216-acb8-4fce-8632-277561e34926.gif' alt='MARS'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
-[<img src='https://user-images.githubusercontent.com/83868103/228257165-c2339216-acb8-4fce-8632-277561e34926.gif' alt='MARS'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
-[<img src='https://user-images.githubusercontent.com/83868103/228257165-c2339216-acb8-4fce-8632-277561e34926.gif' alt='MARS'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 
 
 
