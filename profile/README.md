@@ -6,7 +6,7 @@ ___
 ___
 
 
-[<img src='https://user-images.githubusercontent.com/83868103/228214497-85a083db-6217-4ced-a9fb-5a33b8805cc9.png' alt='MAINNETS'  width='100%'>](https://github.com/testnet-pride) 
+[<img src='https://user-images.githubusercontent.com/83868103/228278119-8f1fa7a2-a305-403c-ac03-d981fdebe5c6.png' alt='MAINNETS'  width='100%'>](https://github.com/testnet-pride) 
  
 [<img src='https://user-images.githubusercontent.com/83868103/228053205-db8ce8af-df3c-4f45-a429-b4c14c52b21c.png' alt='KYVE'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228054048-feffe1ef-7b87-4d6d-9962-4160e17cbd89.png' alt='JOYSTREAM'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
@@ -31,7 +31,7 @@ ___
 
 
 ___
-[<img src='https://user-images.githubusercontent.com/83868103/228215727-d947f93b-0152-4ead-8209-6f6641eadeb6.png' alt='TESTNETS'  width='100%'>](https://github.com/testnet-pride) 
+[<img src='https://user-images.githubusercontent.com/83868103/228278121-efb38268-7edb-4b7e-9ebc-ab274f019e8a.png' alt='TESTNETS'  width='100%'>](https://github.com/testnet-pride) 
 
 [<img src='https://user-images.githubusercontent.com/83868103/228027572-45693836-7560-4bb5-af7f-4afa25c461b9.png' alt='CHAINFLIP'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228028427-8ae72fad-6c8a-4b42-aa93-9961b5e74808.png' alt='CELESTIA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
@@ -67,14 +67,14 @@ ___
 
 
 
-[<img src='https://user-images.githubusercontent.com/83868103/228216423-0bcfe206-0394-4b21-9e25-3bbfb2f721aa.png' alt='UPCOMING'  width='100%'>](https://github.com/testnet-pride) 
+[<img src='https://user-images.githubusercontent.com/83868103/228278125-2a8df676-1a3c-4501-b100-a413e167914c.png' alt='UPCOMING'  width='100%'>](https://github.com/testnet-pride) 
 
 [<img src='https://user-images.githubusercontent.com/83868103/228041114-f96eadbf-4dcb-4730-9ad2-26b5ed4f899f.png' alt='SUI'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/228055222-f878c9c2-be81-4204-874f-6058ace0a3e3.png' alt='ALEO'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228046966-8b07662f-d267-47b3-a970-0bb9671500da.png' alt='ARCHWAY'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228061011-29f14d19-ce31-441d-956c-66fa17a7dc78.png' alt='QUASAR'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 ____
-[<img src='https://user-images.githubusercontent.com/83868103/228216351-0e724b37-1e39-41f8-826e-c651c6f6611d.png' alt='COMPLETED'  width='100%'>](https://github.com/testnet-pride) 
+[<img src='https://user-images.githubusercontent.com/83868103/228278114-3be7bdfa-7a61-4cc9-9b66-3e8d93ae3876.png' alt='COMPLETED'  width='100%'>](https://github.com/testnet-pride) 
 
 [<img src='https://user-images.githubusercontent.com/83868103/228055586-37eb4d3c-b77a-4f69-9cd6-e2cd9837554f.png' alt='EVMOS'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228057026-e0659e13-fde1-4977-8b0f-737ea998bff4.png' alt='IRON_FISH'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
@@ -88,7 +88,6 @@ ____
 [<img src='https://user-images.githubusercontent.com/83868103/228067240-4daa54b0-4c5b-46e8-afbd-6fb9a17a65bf.png' alt='MESON'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/228067788-7cf1c767-b4e4-49ba-ad49-c3b8a13121df.png' alt='HORIZON'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
 [<img src='https://user-images.githubusercontent.com/83868103/228070551-0d41409d-2387-4761-8c29-111eb1d76f71.png' alt='MARS'  width='24.5%'>](https://discordapp.com/users/303453296755212288) 
-
 
 
 ____
