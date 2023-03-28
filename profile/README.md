@@ -8,15 +8,21 @@ ___
 
 [<img src='https://user-images.githubusercontent.com/83868103/228278119-8f1fa7a2-a305-403c-ac03-d981fdebe5c6.png' alt='MAINNETS'  width='100%'>](https://github.com/testnet-pride) 
  
+[<img src='https://user-images.githubusercontent.com/83868103/228052390-d4079760-a01f-4dbe-9518-b7df757e2cdc.png' alt='UMEE'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1afdwxpgnqwz002ynkqtu6vxnyqpqymrr4r8apr)
+[<img src='https://user-images.githubusercontent.com/83868103/228058129-db51d83b-816b-42a4-8300-8db430f17fcf.png' alt='QUICKSILVER'  width='24.5%'>](https://www.mintscan.io/quicksilver/validators/quickvaloper185lq8jkc70ya6hxkcrzye5l85u6plefuf0eqet)
+[<img src='https://user-images.githubusercontent.com/83868103/228076928-595e5902-5c2a-4e63-813a-25c4a01a1da4.png' alt='FORTA'  width='24.5%'>](https://app.forta.network/nodePool/102/)
+[<img src='https://user-images.githubusercontent.com/83868103/228054630-e1983013-7a61-40fa-b876-feabb2d7944c.png' alt='NYM'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/6JuLAGMF5mATnurQ3iEwSP3ur8niP7GzF3PKR3PR5t1P)
+[<img src='https://user-images.githubusercontent.com/83868103/228051435-63c03119-8c5c-41fc-8e47-44db1598aa22.png' alt='TERITORI'  width='24.5%'>](https://www.mintscan.io/teritori/validators/torivaloper1qy38xmcrnht0kt5c5fryvl8llrpdwer6atxj5u)
+[<img src='https://user-images.githubusercontent.com/83868103/228379791-0ee70d44-c01b-4806-be2e-30ce16b9aca8.png' alt='LAMBDA'  width='24.5%'>](https://app.forta.network/nodePool/102/)
+[<img src='https://user-images.githubusercontent.com/83868103/228379777-e3e1e7c4-1f69-44e2-9b21-d49f82cfaf76.png' alt='JACKAL'  width='24.5%'>](https://app.forta.network/nodePool/102/)
 [<img src='https://user-images.githubusercontent.com/83868103/228053205-db8ce8af-df3c-4f45-a429-b4c14c52b21c.png' alt='KYVE'  width='24.5%'>](https://www.mintscan.io/kyve/validators/kyvevaloper1s26mkhm970sgs3n72nj03rsnaknazt7g8muled)
 [<img src='https://user-images.githubusercontent.com/83868103/228054048-feffe1ef-7b87-4d6d-9962-4160e17cbd89.png' alt='JOYSTREAM'  width='24.5%'>]( https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.joystream.org%3A9944#/staking/query/j4RuqkJ2Xqf3NTVRYBUqgbatKVZ31mbK59fWnq4ZzfZvhbhbN)
-[<img src='https://user-images.githubusercontent.com/83868103/228054630-e1983013-7a61-40fa-b876-feabb2d7944c.png' alt='NYM'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/6JuLAGMF5mATnurQ3iEwSP3ur8niP7GzF3PKR3PR5t1P)
-[<img src='https://user-images.githubusercontent.com/83868103/228052390-d4079760-a01f-4dbe-9518-b7df757e2cdc.png' alt='UMEE'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1afdwxpgnqwz002ynkqtu6vxnyqpqymrr4r8apr)
-[<img src='https://user-images.githubusercontent.com/83868103/228051435-63c03119-8c5c-41fc-8e47-44db1598aa22.png' alt='TERITORI'  width='24.5%'>](https://www.mintscan.io/teritori/validators/torivaloper1qy38xmcrnht0kt5c5fryvl8llrpdwer6atxj5u)
-[<img src='https://user-images.githubusercontent.com/83868103/228058129-db51d83b-816b-42a4-8300-8db430f17fcf.png' alt='QUICKSILVER'  width='24.5%'>](https://www.mintscan.io/quicksilver/validators/quickvaloper185lq8jkc70ya6hxkcrzye5l85u6plefuf0eqet)
 [<img src='https://user-images.githubusercontent.com/83868103/228075606-a702a3ee-dcd8-46c1-9a9f-24eccf78802b.png' alt='MISES'  width='24.5%'>](https://explorer.stavr.tech/mises/staking/misesvaloper1js09j57nge6yqphe9wvr8kp70le3wqg28qu0ga)
 [<img src='https://user-images.githubusercontent.com/83868103/228076152-c458e3df-1106-485a-86fc-cca2938376d2.png' alt='GENESISL1'  width='24.5%'>](https://ping.pub/genesisl1/staking/genesisvaloper1jpeugc6g2shluse8c0ek87d4rv3qtrn4354nmj)
-[<img src='https://user-images.githubusercontent.com/83868103/228076928-595e5902-5c2a-4e63-813a-25c4a01a1da4.png' alt='FORTA'  width='24.5%'>](https://app.forta.network/nodePool/102/)
+
+
+
+
 
 [<img src='https://user-images.githubusercontent.com/83868103/228273623-36007d62-4ac9-484c-8fdb-77c4951c3917.png' alt='IBC'  width='100%'>](https://github.com/testnet-pride) 
 
@@ -33,11 +39,11 @@ ___
 ___
 [<img src='https://user-images.githubusercontent.com/83868103/228278121-efb38268-7edb-4b7e-9ebc-ab274f019e8a.png' alt='TESTNETS'  width='100%'>](https://github.com/testnet-pride) 
 
-[<img src='https://user-images.githubusercontent.com/83868103/228027572-45693836-7560-4bb5-af7f-4afa25c461b9.png' alt='CHAINFLIP'  width='24.5%'>](https://blocks-perseverance.chainflip.io/validator/cFLxzSjhhLADceGKosoVyMtPu5P96FUdGZ5mjWmv8WWYrG9D1)
-[<img src='https://user-images.githubusercontent.com/83868103/228028427-8ae72fad-6c8a-4b42-aa93-9961b5e74808.png' alt='CELESTIA'  width='24.5%'>](https://testnet.mintscan.io/celestia-testnet/validators/celestiavaloper1r4g3aey38d2a5hnc2a9j2hlnju6nyuprxerm59)
-[<img src='https://user-images.githubusercontent.com/83868103/227786353-8684cf56-3a46-424a-bf9d-288054477769.png' alt='ALEPH_ZERO'  width='24.5%'>](https://test.azero.dev/?rpc=wss%3A%2F%2Fws.test.azero.dev#/staking/query/5DFGYL4tqdMF7zzzBQ4zQTpWchE71b7akmNRsHpMZoxpMmzr)
-[<img src='https://user-images.githubusercontent.com/83868103/228047927-75832b50-9f46-40e3-9752-443d9da42859.png' alt='SEI'  width='24.5%'>](https://sei-atlantic-1.exploreme.pro/validator/seivaloper1nx0nujc0j59japafz2ahhan08s4xme3vavjfxa)
 [<img src='https://user-images.githubusercontent.com/83868103/228030910-f54c8022-b0c0-4531-a4a3-ce658a12244f.png' alt='AXELAR'  width='24.5%'>](https://testnet.axelarscan.io/validator/axelarvaloper14xg8wus5mxlhycxvqfq80t25jfq02qr4az4d60)
+[<img src='https://user-images.githubusercontent.com/83868103/228028427-8ae72fad-6c8a-4b42-aa93-9961b5e74808.png' alt='CELESTIA'  width='24.5%'>](https://testnet.mintscan.io/celestia-testnet/validators/celestiavaloper1r4g3aey38d2a5hnc2a9j2hlnju6nyuprxerm59)
+[<img src='https://user-images.githubusercontent.com/83868103/228047927-75832b50-9f46-40e3-9752-443d9da42859.png' alt='SEI'  width='24.5%'>](https://sei-atlantic-1.exploreme.pro/validator/seivaloper1nx0nujc0j59japafz2ahhan08s4xme3vavjfxa)
+[<img src='https://user-images.githubusercontent.com/83868103/228027572-45693836-7560-4bb5-af7f-4afa25c461b9.png' alt='CHAINFLIP'  width='24.5%'>](https://blocks-perseverance.chainflip.io/validator/cFLxzSjhhLADceGKosoVyMtPu5P96FUdGZ5mjWmv8WWYrG9D1)
+[<img src='https://user-images.githubusercontent.com/83868103/227786353-8684cf56-3a46-424a-bf9d-288054477769.png' alt='ALEPH_ZERO'  width='24.5%'>](https://test.azero.dev/?rpc=wss%3A%2F%2Fws.test.azero.dev#/staking/query/5DFGYL4tqdMF7zzzBQ4zQTpWchE71b7akmNRsHpMZoxpMmzr)
 [<img src='https://user-images.githubusercontent.com/83868103/228031305-cdbce195-5c00-41dd-a53a-68c6c1f767d3.png' alt='OKP4'  width='24.5%'>](https://okp4.explorers.guru/validator/okp4valoper18hhw0nx2wqctk22t52nm8qypxpzkstcxcahv7k)
 [<img src='https://user-images.githubusercontent.com/83868103/228032886-cbf21f02-60d6-48af-b001-fc592a540dc5.png' alt='DEFUND'  width='24.5%'>](https://defund.explorers.guru/validator/defundvaloper14hm9f9fq956xc7xwhstrjqtcr49ey0vnp5wlnq)
 [<img src='https://user-images.githubusercontent.com/83868103/228033434-f5e60ef1-01fe-4bd6-abb5-5b72766b5bd8.png' alt='STARKNET'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
@@ -62,9 +68,6 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228066267-31350585-ab32-4f4b-95e7-f8a6234b002d.png' alt='GORACLE'  width='24.5%'>]()
 [<img src='https://user-images.githubusercontent.com/83868103/228069368-12865795-873b-446e-9b06-b9aaee144b4f.png' alt='SHARDEUM'  width='24.5%'>]()
 ___
-
-
-
 
 
 [<img src='https://user-images.githubusercontent.com/83868103/228278125-2a8df676-1a3c-4501-b100-a413e167914c.png' alt='UPCOMING'  width='100%'>](https://github.com/testnet-pride) 
