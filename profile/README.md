@@ -4,9 +4,7 @@ ___
 ___
 
 
-
-
-[<img src='https://user-images.githubusercontent.com/83868103/227948794-a49e389c-d589-4b7f-84b8-18c0b78b7425.png' alt='MAINNETS'  width='100%'>](https://github.com/testnet-pride) 
+[<img src='https://user-images.githubusercontent.com/83868103/228214497-85a083db-6217-4ced-a9fb-5a33b8805cc9.png' alt='MAINNETS'  width='100%'>](https://github.com/testnet-pride) 
  
 [<img src='https://user-images.githubusercontent.com/83868103/228053205-db8ce8af-df3c-4f45-a429-b4c14c52b21c.png' alt='KYVE'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228054048-feffe1ef-7b87-4d6d-9962-4160e17cbd89.png' alt='JOYSTREAM'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
