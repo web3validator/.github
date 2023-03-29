@@ -14,11 +14,12 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228054630-e1983013-7a61-40fa-b876-feabb2d7944c.png' alt='NYM'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/6JuLAGMF5mATnurQ3iEwSP3ur8niP7GzF3PKR3PR5t1P)
 [<img src='https://user-images.githubusercontent.com/83868103/228051435-63c03119-8c5c-41fc-8e47-44db1598aa22.png' alt='TERITORI'  width='24.5%'>](https://www.mintscan.io/teritori/validators/torivaloper1qy38xmcrnht0kt5c5fryvl8llrpdwer6atxj5u)
 [<img src='https://user-images.githubusercontent.com/83868103/228379791-0ee70d44-c01b-4806-be2e-30ce16b9aca8.png' alt='LAMBDA'  width='24.5%'>](https://explorer.nodestake.top/lambda/staking/lambvaloper1dxe8r8cwr36frcgyz5ufugm8tahampuamttlzp)
-[<img src='https://user-images.githubusercontent.com/83868103/228379777-e3e1e7c4-1f69-44e2-9b21-d49f82cfaf76.png' alt='JACKAL'  width='24.5%'>](https://explorer.nodestake.top/jackal/staking/jklvaloper1qg9pjld3c26svc06u8r3k4cmjlaqg88jkald0p)
+[<img src='https://user-images.githubusercontent.com/83868103/228555379-8babec3f-2e47-4bad-99e1-aa190b2e2c6f.png' alt='JACKAL'  width='24.5%'>](https://explorer.nodestake.top/jackal/staking/jklvaloper1qg9pjld3c26svc06u8r3k4cmjlaqg88jkald0p)
 [<img src='https://user-images.githubusercontent.com/83868103/228053205-db8ce8af-df3c-4f45-a429-b4c14c52b21c.png' alt='KYVE'  width='24.5%'>](https://www.mintscan.io/kyve/validators/kyvevaloper1s26mkhm970sgs3n72nj03rsnaknazt7g8muled)
 [<img src='https://user-images.githubusercontent.com/83868103/228054048-feffe1ef-7b87-4d6d-9962-4160e17cbd89.png' alt='JOYSTREAM'  width='24.5%'>]( https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.joystream.org%3A9944#/staking/query/j4RuqkJ2Xqf3NTVRYBUqgbatKVZ31mbK59fWnq4ZzfZvhbhbN)
 [<img src='https://user-images.githubusercontent.com/83868103/228075606-a702a3ee-dcd8-46c1-9a9f-24eccf78802b.png' alt='MISES'  width='24.5%'>](https://explorer.stavr.tech/mises/staking/misesvaloper1js09j57nge6yqphe9wvr8kp70le3wqg28qu0ga)
 [<img src='https://user-images.githubusercontent.com/83868103/228076152-c458e3df-1106-485a-86fc-cca2938376d2.png' alt='GENESISL1'  width='24.5%'>](https://ping.pub/genesisl1/staking/genesisvaloper1jpeugc6g2shluse8c0ek87d4rv3qtrn4354nmj)
+
 
 
 
@@ -53,7 +54,7 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228034352-ea3e5cb5-e4d3-492b-9e91-850a28fa868b.png' alt='MASSA'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228034695-8da1046e-6644-46ac-8f40-1914426288ae.png' alt='NIBIRU'  width='24.5%'>](https://nibiru.explorers.guru/validator/nibivaloper1g5g3mh62xjndr0jezh8vlvnldsutd93yrk9w2v)
 [<img src='https://user-images.githubusercontent.com/83868103/228025592-c43ba8ae-fc75-4c20-9d12-489cac4d49ad.png' alt='DYMENSION'  width='24.5%'>](https://dymension.explorers.guru/validator/dymvaloper1h6yvl0m5433c0p3q0tklpgygwp2s04u7khu3w3)
-[<img src='https://user-images.githubusercontent.com/83868103/228382041-d3de8e84-f12d-4108-960d-15cfbdc4aa2b.png' alt='GITOPIA'  width='24.5%'>](https://gitopia.explorers.guru/validator/gitopiavaloper1ajxy3x3gf4rled2cmuwv8qd5a0nt6070hzjmfx)
+[<img src='https://user-images.githubusercontent.com/83868103/228556490-f8fc8faa-5c0b-4d28-b287-d8aaee9ab0ec.png' alt='GITOPIA'  width='24.5%'>](https://gitopia.explorers.guru/validator/gitopiavaloper1ajxy3x3gf4rled2cmuwv8qd5a0nt6070hzjmfx)
 [<img src='https://user-images.githubusercontent.com/83868103/228553436-109e8367-0c68-4c4e-97f1-c691f2613b7c.png' alt='NOLUS'  width='24.5%'>](https://nolus.explorers.guru/validator/nolusvaloper1u7yjmx6u0x84pje0wtjdwdy5saqxu07xy4tu0t)
 [<img src='https://user-images.githubusercontent.com/83868103/228382237-84e4b914-1acb-49d0-b084-b7d840095488.png' alt='OJO'  width='24.5%'>](https://ojo.explorers.guru/validator/ojovaloper17epqm50udgawpdytqwuwvfewzk0hr02aytr0wk)
 [<img src='https://user-images.githubusercontent.com/83868103/228039305-a81b7a23-edf9-40ee-bfae-bb6ccaab8f34.png' alt='KYVE_KAON'  width='24.5%'>](https://www.mintscan.io/kyve/validators/kyvevaloper1s26mkhm970sgs3n72nj03rsnaknazt7g8muled)
