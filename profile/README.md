@@ -4,7 +4,12 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228218846-b5d78b4d-d675-4e93-8266-dbf228ce85d9.png' alt='MAINNETS'  height=100% width='30%'>](https://github.com/testnet-pride) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aqum+two&size=11&duration=50&pause=10&color=D1A93E&vCenter=true&multiline=true&repeat=false&width=510&height=240&lines=TestnetPride+is+a+a+staking+provider+for+PoS+blockchains.+We+do+ensure+;reliability%2C+security+and+decentralisation+that+are+successfully+backed;by+an+experienced+team%2C+technically+advanced+community+from+all+over+;the+world+as+well+as+dependable+hosting+providers.+;+;Our+team+includes+experienced+Software+developers%2C+DevOps+engineers%2C+;managers%2C+technical+moderators+as+well+as+talented+designers+and;ambassadors.;+;We+support+crypto+projects+from+their+initial+testnet%2Fdevnet+phases+and+;after+mainnet.+;+;+Our+team+has+been+involved+in+different+aspects+of+numerous+major;as+Aptos%2C+Sui%2C+Aleo%2C+Ironfish+and+a+lot+of+Cosmos+%26+Polkadot+based+projects.+)](https://git.io/typing-svg)
 ___
 
-[<img src='https://user-images.githubusercontent.com/83868103/227937841-6e05b933-9534-49f1-808a-efe087a4f7cd.png' alt='Twitter'  width='16.5%'>](https://twitter.com/intent/user?screen_name=TestnetPride&intent=follow)[<img src='https://user-images.githubusercontent.com/83868103/227935592-ea64badd-ceb4-4945-8dfc-f25c787fb29d.png' alt='TELEGRAM'  width='16.5%'>](https://t.me/TestnetPride)[<img src='https://user-images.githubusercontent.com/83868103/227936236-325bebfd-b287-4206-a964-dcbe67fe7ca8.png' alt='WEBSITE'  width='16.5%'>](http://testnet-pride.com/)[<img src='https://user-images.githubusercontent.com/83868103/227936479-a48e814b-3ec1-4dcb-bd44-96b02d8f55da.png' alt='MAIL'  width='16.5%'>](mailto:official@testnet-pride.com)[<img src='https://user-images.githubusercontent.com/83868103/227932993-b1e3a588-2b91-4915-854a-fa47da3b2cdb.png' alt='LINKEDIN'  width='16.5%'>](https://www.linkedin.com/company/testnet-pride/)[<img src='https://user-images.githubusercontent.com/83868103/227948915-65731f97-c406-4d2c-996c-e5440ff67584.png' alt='GITHUB'  width='16.5%'>](https://github.com/testnet-pride)
+[<img src='https://user-images.githubusercontent.com/83868103/227937841-6e05b933-9534-49f1-808a-efe087a4f7cd.png' alt='Twitter'  width='16.5%'>](https://twitter.com/intent/user?screen_name=TestnetPride&intent=follow)
+[<img src='https://user-images.githubusercontent.com/83868103/227935592-ea64badd-ceb4-4945-8dfc-f25c787fb29d.png' alt='TELEGRAM'  width='16.5%'>](https://t.me/TestnetPride)
+[<img src='https://user-images.githubusercontent.com/83868103/227936236-325bebfd-b287-4206-a964-dcbe67fe7ca8.png' alt='WEBSITE'  width='16.5%'>](http://testnet-pride.com/)
+[<img src='https://user-images.githubusercontent.com/83868103/227936479-a48e814b-3ec1-4dcb-bd44-96b02d8f55da.png' alt='MAIL'  width='16.5%'>](mailto:official@testnet-pride.com)
+[<img src='https://user-images.githubusercontent.com/83868103/227932993-b1e3a588-2b91-4915-854a-fa47da3b2cdb.png' alt='LINKEDIN'  width='16.5%'>](https://www.linkedin.com/company/testnet-pride/)
+[<img src='https://user-images.githubusercontent.com/83868103/227948915-65731f97-c406-4d2c-996c-e5440ff67584.png' alt='GITHUB'  width='16.5%'>](https://github.com/testnet-pride)
 ___
 
 [<img src='https://user-images.githubusercontent.com/83868103/228278119-8f1fa7a2-a305-403c-ac03-d981fdebe5c6.png' alt='MAINNETS'  width='100%'>](https://github.com/testnet-pride) 
@@ -31,7 +36,7 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228629046-5ceb89de-1505-48ca-92cb-7eda2457f184.gif' alt='O-A-IBC'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 ___
 
-[<img src='https://user-images.githubusercontent.com/83868103/228278121-efb38268-7edb-4b7e-9ebc-ab274f019e8a.png' alt='TESTNETS'  width='100%'>](https://github.com/testnet-pride) 
+[<img src='https://user-images.githubusercontent.com/83868103/228278121-efb38268-7edb-4b7e-9ebc-ab274f019e8a.png' alt='TESTNETS'  width='100%'>](https://github.com/testnet-pride)
 
 [<img src='https://user-images.githubusercontent.com/83868103/228030910-f54c8022-b0c0-4531-a4a3-ce658a12244f.png' alt='AXELAR'  width='24.5%'>](https://testnet.axelarscan.io/validator/axelarvaloper14xg8wus5mxlhycxvqfq80t25jfq02qr4az4d60)
 [<img src='https://user-images.githubusercontent.com/83868103/228028427-8ae72fad-6c8a-4b42-aa93-9961b5e74808.png' alt='CELESTIA'  width='24.5%'>](https://testnet.mintscan.io/celestia-testnet/validators/celestiavaloper1r4g3aey38d2a5hnc2a9j2hlnju6nyuprxerm59)
@@ -69,14 +74,14 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228591762-f25c45c5-f94e-455a-939d-e6eb701d3f38.png' alt='SUBSPACE'  width='24.5%'>]()
 ___
 
-[<img src='https://user-images.githubusercontent.com/83868103/228278125-2a8df676-1a3c-4501-b100-a413e167914c.png' alt='UPCOMING'  width='100%'>](https://github.com/testnet-pride) 
+[<img src='https://user-images.githubusercontent.com/83868103/228278125-2a8df676-1a3c-4501-b100-a413e167914c.png' alt='UPCOMING'  width='100%'>](https://github.com/testnet-pride)
 
-[<img src='https://user-images.githubusercontent.com/83868103/228056433-cb35a533-93e5-424f-85e5-b344f1cdc1b6.png' alt='APTOS'  width='24.5%'>]() 
-[<img src='https://user-images.githubusercontent.com/83868103/228041114-f96eadbf-4dcb-4730-9ad2-26b5ed4f899f.png' alt='SUI'  width='24.5%'>](https://sui.io/resources-sui/testnet-wave-2-recap-the-tokenomics-suinami/) 
+[<img src='https://user-images.githubusercontent.com/83868103/228056433-cb35a533-93e5-424f-85e5-b344f1cdc1b6.png' alt='APTOS'  width='24.5%'>]()
+[<img src='https://user-images.githubusercontent.com/83868103/228041114-f96eadbf-4dcb-4730-9ad2-26b5ed4f899f.png' alt='SUI'  width='24.5%'>](https://sui.io/resources-sui/testnet-wave-2-recap-the-tokenomics-suinami/)
 [<img src='https://user-images.githubusercontent.com/83868103/228055222-f878c9c2-be81-4204-874f-6058ace0a3e3.png' alt='ALEO'  width='24.5%'>]()
 [<img src='https://user-images.githubusercontent.com/83868103/228046966-8b07662f-d267-47b3-a970-0bb9671500da.png' alt='ARCHWAY'  width='24.5%'>]()
 [<img src='https://user-images.githubusercontent.com/83868103/228061011-29f14d19-ce31-441d-956c-66fa17a7dc78.png' alt='QUASAR'  width='24.5%'>]()
-[<img src='https://user-images.githubusercontent.com/83868103/228591622-c68e8e5d-c453-428c-8b76-27931605eb48.png' alt='BABYLON'  width='24.5%'>]() 
+[<img src='https://user-images.githubusercontent.com/83868103/228591622-c68e8e5d-c453-428c-8b76-27931605eb48.png' alt='BABYLON'  width='24.5%'>]()
 [<img src='https://user-images.githubusercontent.com/83868103/228591629-383e5222-908a-4843-b2d0-d9e6e51ad9a5.png' alt='BUNDLR'  width='24.5%'>]()
 [<img src='https://user-images.githubusercontent.com/83868103/228591645-98b8e870-9194-44f0-b2b4-eb2ff05a3078.png' alt='DWS'  width='24.5%'>]()
 [<img src='https://user-images.githubusercontent.com/83868103/228591653-e64bbea6-3d04-4362-9763-41d9c0e68b97.png' alt='EMPOWER'  width='24.5%'>]()
@@ -84,20 +89,20 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228591769-edfbe3b8-b43e-4764-bd77-19bfeb16242b.png' alt='SUPRA'  width='24.5%'>]()
 ____
 
-[<img src='https://user-images.githubusercontent.com/83868103/228278114-3be7bdfa-7a61-4cc9-9b66-3e8d93ae3876.png' alt='COMPLETED'  width='100%'>](https://github.com/testnet-pride) 
+[<img src='https://user-images.githubusercontent.com/83868103/228278114-3be7bdfa-7a61-4cc9-9b66-3e8d93ae3876.png' alt='COMPLETED'  width='100%'>](https://github.com/testnet-pride)
 
 [<img src='https://user-images.githubusercontent.com/83868103/228055586-37eb4d3c-b77a-4f69-9cd6-e2cd9837554f.png' alt='EVMOS'  width='24.5%'>](https://github.com/evmos/testnets/pull/1866)
 [<img src='https://user-images.githubusercontent.com/83868103/228057026-e0659e13-fde1-4977-8b0f-737ea998bff4.png' alt='IRON_FISH'  width='24.5%'>](https://phase1.testnet.ironfish.network/users/1385)
-[<img src='https://user-images.githubusercontent.com/83868103/228055973-559fcc00-d200-48f9-847b-d72f40a33093.png' alt='EXORDE'  width='24.5%'>]() 
-[<img src='https://user-images.githubusercontent.com/83868103/228062864-2a43e627-25f9-43bf-8560-43e405a3d48b.png' alt='NEAR'  width='24.5%'>]() 
+[<img src='https://user-images.githubusercontent.com/83868103/228055973-559fcc00-d200-48f9-847b-d72f40a33093.png' alt='EXORDE'  width='24.5%'>]()
+[<img src='https://user-images.githubusercontent.com/83868103/228062864-2a43e627-25f9-43bf-8560-43e405a3d48b.png' alt='NEAR'  width='24.5%'>]()
 [<img src='https://user-images.githubusercontent.com/83868103/228064236-1810d768-ab60-4dea-bda3-9718f906ab1d.png' alt='BITCOUNTRY'  width='24.5%'>]()
-[<img src='https://user-images.githubusercontent.com/83868103/228064691-0668a5ae-c664-4ddf-acf6-201c57e3eb81.png' alt='KUJIRA'  width='24.5%'>]() 
-[<img src='https://user-images.githubusercontent.com/83868103/228065218-07071f0c-383e-467f-adf9-ceb595c7e010.png' alt='STAFI'  width='24.5%'>]() 
-[<img src='https://user-images.githubusercontent.com/83868103/228066617-04f3d7d1-4694-4acf-89c2-57efc9394551.png' alt='PONTEM'  width='24.5%'>]() 
-[<img src='https://user-images.githubusercontent.com/83868103/228067240-4daa54b0-4c5b-46e8-afbd-6fb9a17a65bf.png' alt='MESON'  width='24.5%'>]() 
-[<img src='https://user-images.githubusercontent.com/83868103/228067788-7cf1c767-b4e4-49ba-ad49-c3b8a13121df.png' alt='HORIZON'  width='24.5%'>]() 
-[<img src='https://user-images.githubusercontent.com/83868103/228070551-0d41409d-2387-4761-8c29-111eb1d76f71.png' alt='MARS'  width='24.5%'>]() 
-[<img src='https://user-images.githubusercontent.com/83868103/228591612-635eee1a-94ac-46bb-9d2f-cccb88e1cecb.png' alt='ADAMNITE'  width='24.5%'>]()  
+[<img src='https://user-images.githubusercontent.com/83868103/228064691-0668a5ae-c664-4ddf-acf6-201c57e3eb81.png' alt='KUJIRA'  width='24.5%'>]()
+[<img src='https://user-images.githubusercontent.com/83868103/228065218-07071f0c-383e-467f-adf9-ceb595c7e010.png' alt='STAFI'  width='24.5%'>]()
+[<img src='https://user-images.githubusercontent.com/83868103/228066617-04f3d7d1-4694-4acf-89c2-57efc9394551.png' alt='PONTEM'  width='24.5%'>]()
+[<img src='https://user-images.githubusercontent.com/83868103/228067240-4daa54b0-4c5b-46e8-afbd-6fb9a17a65bf.png' alt='MESON'  width='24.5%'>]()
+[<img src='https://user-images.githubusercontent.com/83868103/228067788-7cf1c767-b4e4-49ba-ad49-c3b8a13121df.png' alt='HORIZON'  width='24.5%'>]()
+[<img src='https://user-images.githubusercontent.com/83868103/228070551-0d41409d-2387-4761-8c29-111eb1d76f71.png' alt='MARS'  width='24.5%'>]()
+[<img src='https://user-images.githubusercontent.com/83868103/228591612-635eee1a-94ac-46bb-9d2f-cccb88e1cecb.png' alt='ADAMNITE'  width='24.5%'>]()
 [<img src='https://user-images.githubusercontent.com/83868103/228591627-1b760fac-e08a-493c-a434-74b8e0315242.png' alt='BIFROST'  width='24.5%'>]()
 [<img src='https://user-images.githubusercontent.com/83868103/228591632-d494064e-6f22-430d-8a8a-f5d424058570.png' alt='CANTO'  width='24.5%'>]()
 [<img src='https://user-images.githubusercontent.com/83868103/228591634-61cad4e9-c877-4f92-8a9f-9f6d579da3d7.png' alt='CHRONIC'  width='24.5%'>]()
