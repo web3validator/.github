@@ -1,10 +1,11 @@
 
 ___
+
 [<img src='https://user-images.githubusercontent.com/83868103/228218846-b5d78b4d-d675-4e93-8266-dbf228ce85d9.png' alt='MAINNETS'  height=100% width='30%'>](https://github.com/testnet-pride) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aqum+two&size=11&duration=50&pause=10&color=D1A93E&vCenter=true&multiline=true&repeat=false&width=510&height=240&lines=TestnetPride+is+a+a+staking+provider+for+PoS+blockchains.+We+do+ensure+;reliability%2C+security+and+decentralisation+that+are+successfully+backed;by+an+experienced+team%2C+technically+advanced+community+from+all+over+;the+world+as+well+as+dependable+hosting+providers.+;+;Our+team+includes+experienced+Software+developers%2C+DevOps+engineers%2C+;managers%2C+technical+moderators+as+well+as+talented+designers+and;ambassadors.;+;We+support+crypto+projects+from+their+initial+testnet%2Fdevnet+phases+and+;after+mainnet.+;+;+Our+team+has+been+involved+in+different+aspects+of+numerous+major;as+Aptos%2C+Sui%2C+Aleo%2C+Ironfish+and+a+lot+of+Cosmos+%26+Polkadot+based+projects.+)](https://git.io/typing-svg)
 ___
+
 [<img src='https://user-images.githubusercontent.com/83868103/227937841-6e05b933-9534-49f1-808a-efe087a4f7cd.png' alt='Twitter'  width='16.5%'>](https://twitter.com/intent/user?screen_name=TestnetPride&intent=follow)[<img src='https://user-images.githubusercontent.com/83868103/227935592-ea64badd-ceb4-4945-8dfc-f25c787fb29d.png' alt='TELEGRAM'  width='16.5%'>](https://t.me/TestnetPride)[<img src='https://user-images.githubusercontent.com/83868103/227936236-325bebfd-b287-4206-a964-dcbe67fe7ca8.png' alt='WEBSITE'  width='16.5%'>](http://testnet-pride.com/)[<img src='https://user-images.githubusercontent.com/83868103/227936479-a48e814b-3ec1-4dcb-bd44-96b02d8f55da.png' alt='MAIL'  width='16.5%'>](mailto:official@testnet-pride.com)[<img src='https://user-images.githubusercontent.com/83868103/227932993-b1e3a588-2b91-4915-854a-fa47da3b2cdb.png' alt='LINKEDIN'  width='16.5%'>](https://www.linkedin.com/company/testnet-pride/)[<img src='https://user-images.githubusercontent.com/83868103/227948915-65731f97-c406-4d2c-996c-e5440ff67584.png' alt='GITHUB'  width='16.5%'>](https://github.com/testnet-pride)
 ___
-
 
 [<img src='https://user-images.githubusercontent.com/83868103/228278119-8f1fa7a2-a305-403c-ac03-d981fdebe5c6.png' alt='MAINNETS'  width='100%'>](https://github.com/testnet-pride) 
  
@@ -20,24 +21,14 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228075606-a702a3ee-dcd8-46c1-9a9f-24eccf78802b.png' alt='MISES'  width='24.5%'>](https://explorer.stavr.tech/mises/staking/misesvaloper1js09j57nge6yqphe9wvr8kp70le3wqg28qu0ga)
 [<img src='https://user-images.githubusercontent.com/83868103/228076152-c458e3df-1106-485a-86fc-cca2938376d2.png' alt='GENESISL1'  width='24.5%'>](https://ping.pub/genesisl1/staking/genesisvaloper1jpeugc6g2shluse8c0ek87d4rv3qtrn4354nmj)
 
-
-
-
-
-
 [<img src='https://user-images.githubusercontent.com/83868103/228273623-36007d62-4ac9-484c-8fdb-77c4951c3917.png' alt='IBC'  width='100%'>](https://github.com/testnet-pride) 
-
-
 
 [<img src='https://user-images.githubusercontent.com/83868103/228269599-eb454717-b474-481f-a3a5-381115b230f4.gif' alt='O-U-IBC'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228271015-28ae825d-4faa-4d6f-8e92-53e9bb557dd2.gif' alt='O-Q-IBC'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228271925-387500d9-c0f3-42fe-8186-394bb7c9cb58.gif' alt='O-T-IBC'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
 [<img src='https://user-images.githubusercontent.com/83868103/228274875-2e307101-3688-4ace-9a48-19a134200e4a.gif' alt='O-L1-IBC'  width='24.5%'>](https://discordapp.com/users/303453296755212288)
-
-
-
-
 ___
+
 [<img src='https://user-images.githubusercontent.com/83868103/228278121-efb38268-7edb-4b7e-9ebc-ab274f019e8a.png' alt='TESTNETS'  width='100%'>](https://github.com/testnet-pride) 
 
 [<img src='https://user-images.githubusercontent.com/83868103/228030910-f54c8022-b0c0-4531-a4a3-ce658a12244f.png' alt='AXELAR'  width='24.5%'>](https://testnet.axelarscan.io/validator/axelarvaloper14xg8wus5mxlhycxvqfq80t25jfq02qr4az4d60)
@@ -75,7 +66,6 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228591674-a61eee05-0a50-4655-bd32-7c4c80301e9c.png' alt='MANDE'  width='24.5%'>]()
 [<img src='https://user-images.githubusercontent.com/83868103/228591762-f25c45c5-f94e-455a-939d-e6eb701d3f38.png' alt='SUBSPACE'  width='24.5%'>]()
 ___
-
 
 [<img src='https://user-images.githubusercontent.com/83868103/228278125-2a8df676-1a3c-4501-b100-a413e167914c.png' alt='UPCOMING'  width='100%'>](https://github.com/testnet-pride) 
 
@@ -132,6 +122,4 @@ ____
 [<img src='https://user-images.githubusercontent.com/83868103/228591754-8a3f3187-9b7d-482f-985c-c660c73af8e1.png' alt='STRATOS'  width='24.5%'>]()
 [<img src='https://user-images.githubusercontent.com/83868103/228591758-c51de92b-2f73-4dab-8440-64c93e8d1b98.png' alt='STRIDE'  width='24.5%'>]()
 [<img src='https://user-images.githubusercontent.com/83868103/228591774-115a29e6-a18f-4d2d-bd47-d777b5bfe297.png' alt='ZEITGEIST'  width='24.5%'>]()
-
 ____
-
