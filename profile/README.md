@@ -1,4 +1,3 @@
-
 <img src="https://user-images.githubusercontent.com/59205554/217953492-bdb6892e-918b-4981-8968-cf8b6f263ddd.png" alt="web34ever" width="250" height="250">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=web34ever+is+a+staking+service+that+is+online+all+the+time!)](https://git.io/typing-svg)
